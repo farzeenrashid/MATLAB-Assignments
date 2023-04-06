@@ -1,2 +1,2 @@
-# MATLAB-Assignments
+# MATLAB Assignments
 MATLAB assignments for ENSC 180
